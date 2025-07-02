@@ -1,0 +1,11 @@
+exif,jpeg_artifacts,color_distribution,edges,clones,total_score,threat_detected,threat_types
+30.0,1.6127081298828123,0.0,0.0,0.0,31.61270812988281,False,Metadata issues
+30.0,1.2489215087890626,0.0,0.0,0.0,31.248921508789063,False,Metadata issues
+30.0,1.3776533508300781,0.0,0.0,0.0,31.377653350830077,False,Metadata issues
+30.0,1.750902404785156,0.0,0.0,0.0,31.750902404785155,False,Metadata issues
+30.0,1.6127081298828123,0.0,0.0,0.0,31.61270812988281,False,Metadata issues
+30.0,1.6127081298828123,0.0,0.0,0.0,31.61270812988281,True,Metadata issues
+30.0,1.2489215087890626,0.0,0.0,0.0,31.248921508789063,True,Metadata issues
+30.0,2.20579833984375,0.0,0.0,0.0,32.20579833984375,True,Metadata issues
+30.0,2.6194255352020264,0.0,20.0,0.0,40.0,92.61943054199219,True,Metadata issues; Irregular edge patterns; Possible image splicing
+30.0,0.9744826555252075,0.0,20.0,30.0,40.0,120.9744873046875,True,Metadata issues; Irregular edge patterns; Clone regions detected; Possible image splicing

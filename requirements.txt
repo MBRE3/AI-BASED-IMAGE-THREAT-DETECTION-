@@ -1,0 +1,6 @@
+Flask
+streamlit
+opencv-python
+Pillow
+requests
+numpy
