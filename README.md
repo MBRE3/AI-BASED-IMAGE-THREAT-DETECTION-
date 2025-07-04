@@ -33,8 +33,6 @@ Objectives
 │
 ├── app.py                  Flask backend logic
 ├── streamlit_app.py        Streamlit frontend interface
-├── detection.py            Image manipulation detection functions
-├── utils.py                Helper functions (image preprocessing, heatmaps)
 ├── learn_dataset.csv       Dynamically generated dataset of results
 ├── requirements.txt        List of required Python packages
 └── README.md               Project documentation
@@ -63,7 +61,7 @@ Unlike traditional models trained on fixed datasets, this system:
 📦 Installation
 1. Clone this repo:
    bash
-   git clone https://github.com/your-username/ai-image-threat-detector.git
+   git clone https://github.com/MBRE3/AI-BASED-IMAGE-THREAT-DETECTION-.git
    cd ai-image-threat-detector
 
 2. Create a virtual environment and activate it:
